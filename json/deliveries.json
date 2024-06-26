@@ -1,0 +1,1810 @@
+[
+    {
+        "routeid": "INOVA-17",
+        "stopid": "INOVA-17__2024-03-18",
+        "customerid": null,
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Planejado",
+        "branch_code": "2321",
+        "latitude": null,
+        "longitude": null,
+        "sku": null,
+        "volume": null,
+        "products": [
+            {
+                "sku": null,
+                "volume": null
+            },
+            {
+                "sku": null,
+                "volume": null
+            },
+            {
+                "sku": null,
+                "volume": null
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 15",
+        "stopid": "OX_FIG 15__2024-03-18",
+        "customerid": null,
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Planejado",
+        "branch_code": "2321",
+        "latitude": null,
+        "longitude": null,
+        "sku": null,
+        "volume": null,
+        "products": [
+            {
+                "sku": null,
+                "volume": null
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-01",
+        "stopid": "M.NIT-01__2024-03-18",
+        "customerid": null,
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Planejado",
+        "branch_code": "2321",
+        "latitude": null,
+        "longitude": null,
+        "sku": null,
+        "volume": null,
+        "products": [
+            {
+                "sku": null,
+                "volume": null
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18__2024-03-18",
+        "customerid": null,
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Planejado",
+        "branch_code": "2321",
+        "latitude": null,
+        "longitude": null,
+        "sku": null,
+        "volume": null,
+        "products": [
+            {
+                "sku": null,
+                "volume": null
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-07",
+        "stopid": "M.NIT-07__2024-03-18",
+        "customerid": null,
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Planejado",
+        "branch_code": "2321",
+        "latitude": null,
+        "longitude": null,
+        "sku": null,
+        "volume": null,
+        "products": [
+            {
+                "sku": null,
+                "volume": null
+            },
+            {
+                "sku": null,
+                "volume": null
+            }
+        ]
+    },
+    {
+        "routeid": "MUNCK-02",
+        "stopid": "MUNCK-02__2024-03-18",
+        "customerid": null,
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Planejado",
+        "branch_code": "2321",
+        "latitude": null,
+        "longitude": null,
+        "sku": null,
+        "volume": null,
+        "products": [
+            {
+                "sku": null,
+                "volume": null
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-01",
+        "stopid": "M.NIT-01_10022083_2024-03-18",
+        "customerid": "10022083",
+        "cpfcnpj": "73511933000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8581905365,
+        "longitude": -43.5673408508,
+        "sku": "40000050",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000050",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000195",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000515",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT 08",
+        "stopid": "M.NIT 08_10022635_2024-03-18",
+        "customerid": "10022635",
+        "cpfcnpj": "78958717000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7357597351,
+        "longitude": -42.8158187866,
+        "sku": "40000050",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000050",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000270",
+                "volume": 5.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000270",
+                "volume": 5.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-03",
+        "stopid": "M.NIT-03_10027176_2024-03-18",
+        "customerid": "10027176",
+        "cpfcnpj": "60884855001",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8943996429,
+        "longitude": -43.1164016724,
+        "sku": "40000187",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000187",
+                "volume": 1.0
+            },
+            {
+                "sku": "40001245",
+                "volume": 8.0
+            },
+            {
+                "sku": "40000315",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000154",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_10027177_2024-03-18",
+        "customerid": "10027177",
+        "cpfcnpj": "60884855001",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.972240448,
+        "longitude": -43.1925888062,
+        "sku": "40001245",
+        "volume": 7.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 7.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 16",
+        "stopid": "OX_FIG 16_10028312_2024-03-18",
+        "customerid": "10028312",
+        "cpfcnpj": "61142063000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7388000488,
+        "longitude": -43.471370697,
+        "sku": "40000050",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000050",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000195",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 15",
+        "stopid": "OX_FIG 15_10032590_2024-03-18",
+        "customerid": "10032590",
+        "cpfcnpj": "11023891000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.66357127,
+        "longitude": -43.2841962576,
+        "sku": "40000573",
+        "volume": 9.0,
+        "products": [
+            {
+                "sku": "40000573",
+                "volume": 9.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-17",
+        "stopid": "INOVA-17_10037146_2024-03-18",
+        "customerid": "10037146",
+        "cpfcnpj": "16328932002",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8527603149,
+        "longitude": -43.2331390381,
+        "sku": "40000116",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000116",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_10040412_2024-03-18",
+        "customerid": "10040412",
+        "cpfcnpj": "26388123000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9473800659,
+        "longitude": -43.1881217957,
+        "sku": "40000563",
+        "volume": 4.0,
+        "products": [
+            {
+                "sku": "40000563",
+                "volume": 4.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-02",
+        "stopid": "M.NIT-02_10040622_2024-03-18",
+        "customerid": "10040622",
+        "cpfcnpj": "09578217000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8576202393,
+        "longitude": -43.3298187256,
+        "sku": "40001245",
+        "volume": 6.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 6.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-02",
+        "stopid": "M.NIT-02_10045288_2024-03-18",
+        "customerid": "10045288",
+        "cpfcnpj": "15266762000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.873670578,
+        "longitude": -43.3575210571,
+        "sku": "40000051",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000051",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-17",
+        "stopid": "INOVA-17_10045538_2024-03-18",
+        "customerid": "10045538",
+        "cpfcnpj": "18010750000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9159712388,
+        "longitude": -43.2148450613,
+        "sku": "40001245",
+        "volume": 8.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 8.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_10047499_2024-03-18",
+        "customerid": "10047499",
+        "cpfcnpj": "28360001000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9247703552,
+        "longitude": -43.2103309631,
+        "sku": "40001245",
+        "volume": 3.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 3.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 15",
+        "stopid": "OX_FIG 15_10049134_2024-03-18",
+        "customerid": "10049134",
+        "cpfcnpj": "11564389000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7003097534,
+        "longitude": -43.2913818359,
+        "sku": "40000515",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40000515",
+                "volume": 0.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000264",
+                "volume": 3.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 15",
+        "stopid": "OX_FIG 15_10052979_2024-03-18",
+        "customerid": "10052979",
+        "cpfcnpj": "08562523000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7955887114,
+        "longitude": -43.2981383801,
+        "sku": "40001245",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-01",
+        "stopid": "M.NIT-01_10057809_2024-03-18",
+        "customerid": "10057809",
+        "cpfcnpj": "07358761017",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.865819931,
+        "longitude": -43.5623283386,
+        "sku": "40000051",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000051",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000052",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-02",
+        "stopid": "M.NIT-02_10061723_2024-03-18",
+        "customerid": "10061723",
+        "cpfcnpj": "08850962000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.884809494,
+        "longitude": -43.3656196594,
+        "sku": "40001245",
+        "volume": 4.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 4.0
+            },
+            {
+                "sku": "40000202",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-07",
+        "stopid": "M.NIT-07_10062982_2024-03-18",
+        "customerid": "10062982",
+        "cpfcnpj": "08902291000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9067361176,
+        "longitude": -43.824634552,
+        "sku": "40000195",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000195",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000199",
+                "volume": 10.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_10065128_2024-03-18",
+        "customerid": "10065128",
+        "cpfcnpj": "06047087000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9652004242,
+        "longitude": -43.1904716492,
+        "sku": "40001245",
+        "volume": 30.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 30.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-17",
+        "stopid": "INOVA-17_10065129_2024-03-18",
+        "customerid": "10065129",
+        "cpfcnpj": "06047087001",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9065608978,
+        "longitude": -43.2205581665,
+        "sku": "40000256",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000256",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000153",
+                "volume": 4.0
+            },
+            {
+                "sku": "40000154",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000187",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000315",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000484",
+                "volume": 1.0
+            },
+            {
+                "sku": "40001245",
+                "volume": 15.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 15",
+        "stopid": "OX_FIG 15_10065132_2024-03-18",
+        "customerid": "10065132",
+        "cpfcnpj": "06047087001",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7951337321,
+        "longitude": -43.2964324951,
+        "sku": "40001245",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_10065133_2024-03-18",
+        "customerid": "10065133",
+        "cpfcnpj": "06047087002",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9666309357,
+        "longitude": -43.1886291504,
+        "sku": "40001245",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-01",
+        "stopid": "M.NIT-01_10065136_2024-03-18",
+        "customerid": "10065136",
+        "cpfcnpj": "06047087003",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8789429599,
+        "longitude": -43.452129364,
+        "sku": "40000315",
+        "volume": 3.0,
+        "products": [
+            {
+                "sku": "40000315",
+                "volume": 3.0
+            },
+            {
+                "sku": "40001245",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-01",
+        "stopid": "M.NIT-01_10065137_2024-03-18",
+        "customerid": "10065137",
+        "cpfcnpj": "06047087003",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9086208344,
+        "longitude": -43.5595397949,
+        "sku": "40000187",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000187",
+                "volume": 1.0
+            },
+            {
+                "sku": "40001245",
+                "volume": 4.0
+            },
+            {
+                "sku": "40000153",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000315",
+                "volume": 3.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-07",
+        "stopid": "M.NIT-07_10072219_2024-03-18",
+        "customerid": "10072219",
+        "cpfcnpj": "28944734000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8885402679,
+        "longitude": -43.7320594788,
+        "sku": "40000599",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000599",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000212",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-03",
+        "stopid": "M.NIT-03_10072355_2024-03-18",
+        "customerid": "10072355",
+        "cpfcnpj": "30145502000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9031295776,
+        "longitude": -43.0994491577,
+        "sku": "40001245",
+        "volume": 6.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 6.0
+            },
+            {
+                "sku": "40000315",
+                "volume": 3.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_10072650_2024-03-18",
+        "customerid": "10072650",
+        "cpfcnpj": "34790518000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9516105652,
+        "longitude": -43.1871299744,
+        "sku": "40000197",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000197",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-02",
+        "stopid": "M.NIT-02_10073348_2024-03-18",
+        "customerid": "10073348",
+        "cpfcnpj": "33328980000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8580207825,
+        "longitude": -43.309299469,
+        "sku": "40000179",
+        "volume": 5.0,
+        "products": [
+            {
+                "sku": "40000179",
+                "volume": 5.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000195",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_10074309_2024-03-18",
+        "customerid": "10074309",
+        "cpfcnpj": "33496134000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9127902985,
+        "longitude": -43.1911506653,
+        "sku": "40000563",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40000563",
+                "volume": 0.0
+            },
+            {
+                "sku": "40000618",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_10075244_2024-03-18",
+        "customerid": "10075244",
+        "cpfcnpj": "33518051000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9293804169,
+        "longitude": -43.2316818237,
+        "sku": "40000618",
+        "volume": 5.0,
+        "products": [
+            {
+                "sku": "40000618",
+                "volume": 5.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_10077075_2024-03-18",
+        "customerid": "10077075",
+        "cpfcnpj": "33710096001",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9222793579,
+        "longitude": -43.2206497192,
+        "sku": "40000153",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40000153",
+                "volume": 0.0
+            },
+            {
+                "sku": "40000618",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-07",
+        "stopid": "M.NIT-07_10077232_2024-03-18",
+        "customerid": "10077232",
+        "cpfcnpj": "37513014000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8625106812,
+        "longitude": -43.553730011,
+        "sku": "40000270",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000270",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 5.0
+            },
+            {
+                "sku": "40000051",
+                "volume": 6.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 16",
+        "stopid": "OX_FIG 16_10077808_2024-03-18",
+        "customerid": "10077808",
+        "cpfcnpj": "30742399000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7627906799,
+        "longitude": -43.4455986023,
+        "sku": "40001245",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 15",
+        "stopid": "OX_FIG 15_10079506_2024-03-18",
+        "customerid": "10079506",
+        "cpfcnpj": "29435005003",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7862903,
+        "longitude": -43.3055569,
+        "sku": "40000153",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000153",
+                "volume": 2.0
+            },
+            {
+                "sku": "40001245",
+                "volume": 3.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_10079510_2024-03-18",
+        "customerid": "10079510",
+        "cpfcnpj": "29435005005",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9562206268,
+        "longitude": -43.18724823,
+        "sku": "40001245",
+        "volume": 4.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 4.0
+            },
+            {
+                "sku": "40000315",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_10079511_2024-03-18",
+        "customerid": "10079511",
+        "cpfcnpj": "29435005005",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9565696716,
+        "longitude": -43.1961784363,
+        "sku": "90000491",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "90000491",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_10079513_2024-03-18",
+        "customerid": "10079513",
+        "cpfcnpj": "29435005006",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9465103149,
+        "longitude": -43.1857185364,
+        "sku": "40001245",
+        "volume": 7.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 7.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 15",
+        "stopid": "OX_FIG 15_10079560_2024-03-18",
+        "customerid": "10079560",
+        "cpfcnpj": "30932966000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8259601593,
+        "longitude": -43.2967987061,
+        "sku": "40000050",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000050",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000052",
+                "volume": 9.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 16",
+        "stopid": "OX_FIG 16_10080301_2024-03-18",
+        "customerid": "10080301",
+        "cpfcnpj": "29503802000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.806810379,
+        "longitude": -43.3134002686,
+        "sku": "40000116",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000116",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000212",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT 08",
+        "stopid": "M.NIT 08_10083221_2024-03-18",
+        "customerid": "10083221",
+        "cpfcnpj": "29853942000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7258205414,
+        "longitude": -42.821269989,
+        "sku": "40000202",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000202",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000051",
+                "volume": 1.0
+            },
+            {
+                "sku": "40000195",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_10084114_2024-03-18",
+        "customerid": "10084114",
+        "cpfcnpj": "31635857000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9747905731,
+        "longitude": -43.235080719,
+        "sku": "40000153",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000153",
+                "volume": 2.0
+            },
+            {
+                "sku": "40001245",
+                "volume": 8.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_10084115_2024-03-18",
+        "customerid": "10084115",
+        "cpfcnpj": "31635857000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9563694,
+        "longitude": -43.1874198914,
+        "sku": "40001245",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_10084116_2024-03-18",
+        "customerid": "10084116",
+        "cpfcnpj": "31635857000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9217718974,
+        "longitude": -43.1788122654,
+        "sku": "40000202",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40000202",
+                "volume": 0.0
+            },
+            {
+                "sku": "40001254",
+                "volume": 0.0
+            },
+            {
+                "sku": "40000154",
+                "volume": 0.0
+            },
+            {
+                "sku": "40001245",
+                "volume": 0.0
+            },
+            {
+                "sku": "40000153",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-02",
+        "stopid": "M.NIT-02_10084150_2024-03-18",
+        "customerid": "10084150",
+        "cpfcnpj": "33079641000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8701496124,
+        "longitude": -43.3077011108,
+        "sku": "40000195",
+        "volume": 5.0,
+        "products": [
+            {
+                "sku": "40000195",
+                "volume": 5.0
+            },
+            {
+                "sku": "40000199",
+                "volume": 3.0
+            },
+            {
+                "sku": "40000202",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-03",
+        "stopid": "M.NIT-03_10084846_2024-03-18",
+        "customerid": "10084846",
+        "cpfcnpj": "30110902000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.880449295,
+        "longitude": -43.1017303467,
+        "sku": "40001245",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-07",
+        "stopid": "M.NIT-07_10085044_2024-03-18",
+        "customerid": "10085044",
+        "cpfcnpj": "33220880000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8896102905,
+        "longitude": -43.5272216797,
+        "sku": "40000052",
+        "volume": 10.0,
+        "products": [
+            {
+                "sku": "40000052",
+                "volume": 10.0
+            },
+            {
+                "sku": "40000051",
+                "volume": 6.0
+            },
+            {
+                "sku": "40000195",
+                "volume": 16.0
+            },
+            {
+                "sku": "40000515",
+                "volume": 10.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-12",
+        "stopid": "M.NIT-12_10097032_2024-03-18",
+        "customerid": "10097032",
+        "cpfcnpj": "19221968000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8794593811,
+        "longitude": -43.1218185425,
+        "sku": "40000515",
+        "volume": 8.0,
+        "products": [
+            {
+                "sku": "40000515",
+                "volume": 8.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 4.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 16",
+        "stopid": "OX_FIG 16_10108527_2024-03-18",
+        "customerid": "10108527",
+        "cpfcnpj": "02935467000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7607803345,
+        "longitude": -43.4204711914,
+        "sku": "40006594",
+        "volume": 13.0,
+        "products": [
+            {
+                "sku": "40006594",
+                "volume": 13.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 16",
+        "stopid": "OX_FIG 16_10108904_2024-03-18",
+        "customerid": "10108904",
+        "cpfcnpj": "08976774000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.7554092407,
+        "longitude": -43.4479904175,
+        "sku": "40000564",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40000564",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 16",
+        "stopid": "OX_FIG 16_10109648_2024-03-18",
+        "customerid": "10109648",
+        "cpfcnpj": "28031856000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.775970459,
+        "longitude": -43.4012107849,
+        "sku": "40000264",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000264",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-02",
+        "stopid": "M.NIT-02_20008976_2024-03-18",
+        "customerid": "20008976",
+        "cpfcnpj": "66038120700",
+        "dated": 1710720000000,
+        "status": "Planejado",
+        "branch_code": "2321",
+        "latitude": -22.877910614,
+        "longitude": -43.3386497498,
+        "sku": null,
+        "volume": null,
+        "products": [
+            {
+                "sku": null,
+                "volume": null
+            },
+            {
+                "sku": null,
+                "volume": null
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 16",
+        "stopid": "OX_FIG 16_20027581_2024-03-18",
+        "customerid": "20027581",
+        "cpfcnpj": "16835677732",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8107891083,
+        "longitude": -43.3274002075,
+        "sku": "40001245",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-02",
+        "stopid": "M.NIT-02_20121669_2024-03-18",
+        "customerid": "20121669",
+        "cpfcnpj": "63152002734",
+        "dated": 1710720000000,
+        "status": "Planejado",
+        "branch_code": "2321",
+        "latitude": -22.8699607849,
+        "longitude": -43.3337287903,
+        "sku": null,
+        "volume": null,
+        "products": [
+            {
+                "sku": null,
+                "volume": null
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_40004369_2024-03-18",
+        "customerid": "40004369",
+        "cpfcnpj": "01263896000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8963794708,
+        "longitude": -43.1843299866,
+        "sku": "90000202",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "90000202",
+                "volume": 0.0
+            },
+            {
+                "sku": "90000272",
+                "volume": 0.0
+            },
+            {
+                "sku": "90000542",
+                "volume": 0.0
+            },
+            {
+                "sku": "90000019",
+                "volume": 0.0
+            },
+            {
+                "sku": "90000020",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_40005201_2024-03-18",
+        "customerid": "40005201",
+        "cpfcnpj": "33781055000",
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9423408508,
+        "longitude": -43.1741485596,
+        "sku": "40001245",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_60000351_2024-03-18",
+        "customerid": "60000351",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8968505859,
+        "longitude": -43.1883583069,
+        "sku": "40000202",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40000202",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-03",
+        "stopid": "M.NIT-03_60001533_2024-03-18",
+        "customerid": "60001533",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8955402374,
+        "longitude": -43.1153488159,
+        "sku": "40001245",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_60003771_2024-03-18",
+        "customerid": "60003771",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9563694,
+        "longitude": -43.1874198914,
+        "sku": "40001245",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40001245",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "MUNCK-01",
+        "stopid": "MUNCK-01_60007225_2024-03-18",
+        "customerid": "60007225",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.5142121232,
+        "longitude": -43.2142281532,
+        "sku": "40000338",
+        "volume": 48.0,
+        "products": [
+            {
+                "sku": "40000338",
+                "volume": 48.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_60007454_2024-03-18",
+        "customerid": "60007454",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9562206268,
+        "longitude": -43.18724823,
+        "sku": "40000315",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000315",
+                "volume": 2.0
+            },
+            {
+                "sku": "40001245",
+                "volume": 6.0
+            }
+        ]
+    },
+    {
+        "routeid": "MUNCK-02",
+        "stopid": "MUNCK-02_60008482_2024-03-18",
+        "customerid": "60008482",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9047298431,
+        "longitude": -43.7120018005,
+        "sku": "40000170",
+        "volume": 4.0,
+        "products": [
+            {
+                "sku": "40000170",
+                "volume": 4.0
+            },
+            {
+                "sku": "40000140",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000140",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "MUNCK-02",
+        "stopid": "MUNCK-02_60009261_2024-03-18",
+        "customerid": "60009261",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9148792642,
+        "longitude": -43.7396192551,
+        "sku": "40000171",
+        "volume": 72.0,
+        "products": [
+            {
+                "sku": "40000171",
+                "volume": 72.0
+            }
+        ]
+    },
+    {
+        "routeid": "MUNCK-02",
+        "stopid": "MUNCK-02_60010735_2024-03-18",
+        "customerid": "60010735",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9097009121,
+        "longitude": -43.7413358688,
+        "sku": "40000116",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000116",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-17",
+        "stopid": "INOVA-17_60017916_2024-03-18",
+        "customerid": "60017916",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8604297638,
+        "longitude": -43.2226905823,
+        "sku": "40000202",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000202",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_60018575_2024-03-18",
+        "customerid": "60018575",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.950630188,
+        "longitude": -43.1788482666,
+        "sku": "40000197",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000197",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000933",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-01",
+        "stopid": "M.NIT-01_60022161_2024-03-18",
+        "customerid": "60022161",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9224205017,
+        "longitude": -43.5471611023,
+        "sku": "40000197",
+        "volume": 1.0,
+        "products": [
+            {
+                "sku": "40000197",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "INOVA-18",
+        "stopid": "INOVA-18_60030177_2024-03-18",
+        "customerid": "60030177",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9086303711,
+        "longitude": -43.2032203674,
+        "sku": "40001010",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40001010",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-03",
+        "stopid": "M.NIT-03_60032432_2024-03-18",
+        "customerid": "60032432",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9050197601,
+        "longitude": -43.0944900513,
+        "sku": "40000197",
+        "volume": 6.0,
+        "products": [
+            {
+                "sku": "40000197",
+                "volume": 6.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-03",
+        "stopid": "M.NIT-03_60035420_2024-03-18",
+        "customerid": "60035420",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8987407684,
+        "longitude": -43.0914306641,
+        "sku": "90000014",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "90000014",
+                "volume": 0.0
+            },
+            {
+                "sku": "90001015",
+                "volume": 0.0
+            },
+            {
+                "sku": "90000035",
+                "volume": 0.0
+            },
+            {
+                "sku": "90000491",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT 08",
+        "stopid": "M.NIT 08_60040887_2024-03-18",
+        "customerid": "60040887",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.6693592072,
+        "longitude": -42.7909584045,
+        "sku": "40000051",
+        "volume": 18.0,
+        "products": [
+            {
+                "sku": "40000051",
+                "volume": 18.0
+            },
+            {
+                "sku": "40000195",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000202",
+                "volume": 12.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 2.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 15",
+        "stopid": "OX_FIG 15_60047044_2024-03-18",
+        "customerid": "60047044",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.6998984154,
+        "longitude": -43.2894212008,
+        "sku": "40000116",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40000116",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-13",
+        "stopid": "M.NIT-13_60054303_2024-03-18",
+        "customerid": "60054303",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.9761390686,
+        "longitude": -43.1899490356,
+        "sku": "40000050",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "40000050",
+                "volume": 0.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-07",
+        "stopid": "M.NIT-07_60054605_2024-03-18",
+        "customerid": "60054605",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": null,
+        "longitude": null,
+        "sku": "40000195",
+        "volume": 2.0,
+        "products": [
+            {
+                "sku": "40000195",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000050",
+                "volume": 8.0
+            }
+        ]
+    },
+    {
+        "routeid": "M.NIT-07",
+        "stopid": "M.NIT-07_60054945_2024-03-18",
+        "customerid": "60054945",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": -22.8838291168,
+        "longitude": -43.8253517151,
+        "sku": "40000050",
+        "volume": 6.0,
+        "products": [
+            {
+                "sku": "40000050",
+                "volume": 6.0
+            },
+            {
+                "sku": "40000195",
+                "volume": 2.0
+            },
+            {
+                "sku": "40000270",
+                "volume": 1.0
+            }
+        ]
+    },
+    {
+        "routeid": "OX_FIG 16",
+        "stopid": "OX_FIG 16_60056618_2024-03-18",
+        "customerid": "60056618",
+        "cpfcnpj": null,
+        "dated": 1710720000000,
+        "status": "Realizado",
+        "branch_code": "2321",
+        "latitude": null,
+        "longitude": null,
+        "sku": "90000066",
+        "volume": 0.0,
+        "products": [
+            {
+                "sku": "90000066",
+                "volume": 0.0
+            }
+        ]
+    }
+]
